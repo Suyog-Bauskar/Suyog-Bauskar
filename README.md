@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyog-bauskar&label=Profile%20views&color=0e75b6&style=flat" alt="suyog-bauskar" /> </p>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on **mobile application development projects**
 
