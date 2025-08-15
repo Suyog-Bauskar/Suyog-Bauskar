@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suyog Bauskar</h1>
-<h3 align="center">A passionate application developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyog-bauskar&label=Profile%20views&color=0e75b6&style=flat" alt="suyog-bauskar" /> </p>
 
-- 👯 I’m looking to collaborate on **mobile application development projects**
+- 👯 I’m looking to collaborate on **React/TypeScript, FastAPI and Java projects**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **data lineage visualization, React, TypeScript, Java and Android development**
 
 - 📫 How to reach me **suyogbauskar2004@gmail.com**
 
